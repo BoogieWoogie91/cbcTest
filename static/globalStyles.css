@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Mulish:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Mulish:wght@600;700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.posr {
+  position: relative;
+}
+
+section.main {
+  padding: 88px 0;
+  box-sizing: border-box;
+  min-height: calc(100vh - 88px);
+}
+
+a, button {
+  transition: 300ms ease-in-out;
+  cursor: pointer;
+}
+
+.content {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+    box-sizing: border-box;
+  }
+
+._1110 {
+  max-width: 1140px;
+}
+
+._1120 {
+  max-width: 1150px;
+}
+
+._826 {
+  max-width: 856px;
+}
+
